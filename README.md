@@ -9,9 +9,6 @@
 - [Demo](#demo)
 - [Features](#features)
 - [Built With(Tech Stack)](#built-with)
-- [How to Get Started](#how-to-get-started)
-- [Deployed Links](#deployed-links)
-- [Developed By](#developed-by)
 
 ---
 
